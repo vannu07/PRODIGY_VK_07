@@ -66,3 +66,5 @@ The initial data inspection revealed a well-structured dataset with no missing v
 To further enhance predictive accuracy, exploring other machine learning algorithms or ensemble methods could be beneficial. Feature engineering and selection methods could be employed to mitigate multicollinearity. Incorporating external data sources, such as economic indicators or market trends, may provide additional insights and improve model performance. A real-time deployment of the model into the bank's operational systems can automate decision-making and streamline marketing efforts.
 
 Thank you !
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
